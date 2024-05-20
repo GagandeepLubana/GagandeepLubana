@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  ### ![GitHub profile picture](https://github.com/GagandeepLubana.png)
-</div>
+![GitHub profile picture](https://github.com/GagandeepLubana.png)
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,7 +19,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -57,12 +55,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GagandeepLubana&show_icons=true&locale=en&layout=compact" alt="GagandeepLubana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GagandeepLubana&show_icons=true&locale=en" alt="GagandeepLubana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GagandeepLubana&" alt="GagandeepLubana" /></p>
 <!--
 **GagandeepLubana/GagandeepLubana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
