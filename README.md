@@ -1,5 +1,5 @@
 ###
-![GitHub profile picture]([https://github.com/GagandeepLubana.png](https://i.pinimg.com/originals/45/21/b7/4521b7b2e59c1455b15247f1704abcb8.gif))
+![GitHub profile picture](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
