@@ -23,7 +23,7 @@ Check out my portfolio at https://gagandeeplubana.github.io/
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaganlubana/)
+- :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaganlubana/)
 
 ---
 
