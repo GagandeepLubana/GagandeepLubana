@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  ![GitHub profile picture](https://github.com/GagandeepLubana.png)
+  ### ![GitHub profile picture](https://github.com/GagandeepLubana.png)
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
