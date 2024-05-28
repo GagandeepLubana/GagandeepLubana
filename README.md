@@ -1,7 +1,7 @@
 ###
 ![GitHub profile picture](https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif)
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/gaganlubana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
