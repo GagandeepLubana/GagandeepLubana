@@ -21,7 +21,7 @@
 
 - :zap: In my free time, I solve problems on Leetcode, read tech articles, and create art.
 
-- Check out my portfolio at https://gagandeeplubana.github.io/
+- :mailbox: Check out my portfolio at https://gagandeeplubana.github.io/
 
 - :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaganlubana/)
 
