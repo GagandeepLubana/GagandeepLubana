@@ -17,7 +17,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on Leetcode, read tech articles, and create art.
+- :zap: In my free time, read tech articles, and create art.
 
 - :mailbox: Check out my portfolio at https://gagandeeplubana.github.io/
 
